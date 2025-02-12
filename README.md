@@ -1,6 +1,7 @@
 The final Ultimate Excel Personal Budget has the following main features:
 
-Budget Planning
+**Budget Planning:**
+
 Zero-based budget planning
 Fully customizable income, expenses, and savings categories
 Multi-period approach to set the right expectations for every single month
